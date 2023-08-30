@@ -47,7 +47,7 @@ require (
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/swaggo/gin-swagger v1.3.0
-	github.com/swaggo/swag v1.7.3
+	github.com/swaggo/swag v1.7.3 // indirect
 	github.com/tidwall/gjson v1.8.0
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
@@ -66,7 +66,7 @@ require (
 	google.golang.org/grpc v1.41.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/ini.v1 v1.62.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	gorm.io/driver/sqlite v1.1.5
 	gorm.io/gorm v1.21.15
 )
