@@ -10,7 +10,7 @@ require (
 	github.com/bits-and-blooms/bitset v1.2.1 // indirect
 	github.com/containerd/containerd v1.5.7
 	github.com/containerd/continuity v0.2.0 // indirect
-	github.com/docker/docker v20.10.7+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/forease/gotld v0.0.0-20190808124948-c50ff635576b
 	github.com/gin-contrib/gzip v0.0.2 // indirect
@@ -25,7 +25,6 @@ require (
 	github.com/gomodule/redigo v1.8.5
 	github.com/google/go-github/v36 v36.0.0
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/gorilla/mux v1.8.0 // indirect
 	github.com/gorilla/websocket v1.4.2
 	github.com/jinzhu/copier v0.3.2
 	github.com/json-iterator/go v1.1.11 // indirect
@@ -47,7 +46,7 @@ require (
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/swaggo/gin-swagger v1.3.0
-	github.com/swaggo/swag v1.7.3
+	github.com/swaggo/swag v1.7.3 // indirect
 	github.com/tidwall/gjson v1.8.0
 	github.com/tidwall/pretty v1.2.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.6 // indirect
